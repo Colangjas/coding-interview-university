@@ -209,13 +209,13 @@ Fork the GitHub repo https://github.com/jwasham/coding-interview-university by c
 
     Clone to your local repo
 
-X `git clone git@github.com:<your_github_username>/coding-interview-university.git`
+[X] `git clone git@github.com:<your_github_username>/coding-interview-university.git`
 
-X `git checkout -b progress`
+[X] `git checkout -b progress`
 
-X `git remote add jwasham https://github.com/jwasham/coding-interview-university`
+[X] `git remote add jwasham https://github.com/jwasham/coding-interview-university`
 
-X `git fetch --all`
+[X] `git fetch --all`
 
     Mark all boxes with X after you completed your changes
 
@@ -249,7 +249,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 
 ## Interview Process & General Interview Prep
 
-- [ ] [How to Pass the Engineering Interview in 2021](https://davidbyttow.medium.com/how-to-pass-the-engineering-interview-in-2021-45f1b389a1)
+- [x] [How to Pass the Engineering Interview in 2021](https://davidbyttow.medium.com/how-to-pass-the-engineering-interview-in-2021-45f1b389a1)
 - [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
 - [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] How to Get a Job at the Big 4:
